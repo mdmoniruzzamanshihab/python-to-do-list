@@ -243,4 +243,4 @@ This project is open-source and available for learning, modification, and person
 
 ---
 
-Made with ❤️ using Core Python.
+Made with Core Python.
