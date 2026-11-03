@@ -1,4 +1,4 @@
-# 📝 To-Do List (Core Python)
+#  To-Do List (Core Python)
 
 A lightweight command-line To-Do List application built using Core Python. This project helps users organize daily tasks by adding, viewing, and deleting tasks directly from the terminal. All tasks are automatically saved to a text file, ensuring they remain available even after the program is closed.
 
