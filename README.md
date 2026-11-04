@@ -4,7 +4,7 @@ A lightweight command-line To-Do List application built using Core Python. This 
 
 The project focuses on clean code, simplicity, and practical file handling without relying on external libraries or databases.
 
----
+
 
 # Overview
 
